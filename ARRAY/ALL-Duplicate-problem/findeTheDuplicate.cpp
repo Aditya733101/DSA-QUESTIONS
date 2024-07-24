@@ -43,6 +43,6 @@ void FindDupicate(vector<int>&nums)
 }
 int main()
 {
-  vector<int>nums = {1,1,2,3,4,4,5,2};
+  vector<int>nums = {1,1,2};
   FindDupicate(nums);
   }
